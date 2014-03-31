@@ -6,3 +6,5 @@ class MyFirstJavaProgram {
   }
                         }
                         
+//As main method is static no need to create a object for class MyFirstJavaProgram
+                        
